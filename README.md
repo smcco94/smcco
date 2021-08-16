@@ -1,3 +1,5 @@
-#Introdução ao Git e GitHub
+Bem Vindo!
 
-##Digital Inovation One - Bootcamp
+Este é meu repositório de estudos. Aqui vou mostrar meu desenvolvimento ao longo de bootcamps e cursos !
+
+Fique à vontade !
