@@ -12,8 +12,10 @@ namespace DIO_Avanade
             {
                 Console.WriteLine($"Bem vindo ao .NET {i} da DIO & Avanade");
 
-                Console.WriteLine("Hello World!");
+                
             }
+
+            Console.WriteLine("Hello World!");
         }
     }
 }
