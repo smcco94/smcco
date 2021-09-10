@@ -1,0 +1,16 @@
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/DIO_Avanade
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/DIO_Avanade.deps.json
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/DIO_Avanade.runtimeconfig.json
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/DIO_Avanade.runtimeconfig.dev.json
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/DIO_Avanade.dll
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/ref/DIO_Avanade.dll
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/bin/Debug/net5.0/DIO_Avanade.pdb
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.csproj.AssemblyReference.cache
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.GeneratedMSBuildEditorConfig.editorconfig
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.AssemblyInfoInputs.cache
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.AssemblyInfo.cs
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.csproj.CoreCompileInputs.cache
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.dll
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/ref/DIO_Avanade.dll
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.pdb
+/home/smcco/workspace/CursoC#_.NET/DIO_Avanade/obj/Debug/net5.0/DIO_Avanade.genruntimeconfig.cache
