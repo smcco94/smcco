@@ -10,7 +10,7 @@ namespace DIO_Avanade
 
             for(int i = 0; i < number; i++)
             {
-                Console.WriteLine($"Bem vindo ao .NET {i}");
+                Console.WriteLine($"Bem vindo ao .NET {i} da DIO & Avanade");
             }
         }
     }
